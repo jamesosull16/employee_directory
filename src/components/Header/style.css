@@ -1,0 +1,14 @@
+.navbar {
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  align-content: center;
+}
+
+.container-fluid {
+    text-align: center;
+    color: rgb(206, 193, 193);
+    font-size: 50px;
+}
+

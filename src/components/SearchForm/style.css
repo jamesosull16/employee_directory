@@ -1,0 +1,18 @@
+form.search {
+    overflow: auto;
+    margin-bottom: 10px;
+  }
+  
+  form.search button[type="submit"] {
+    align-content: center;
+    margin-top: 10px;
+  }
+
+  form {
+      padding: 10px;
+      width: 25%;
+  }
+
+  .form-group {
+      vertical-align: center;
+  }
